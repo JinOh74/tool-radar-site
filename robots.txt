@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jinoh74.github.io/tool-radar-site/sitemap.xml
